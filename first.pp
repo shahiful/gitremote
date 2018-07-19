@@ -1,1 +1,1 @@
-notify {"this is my remote file":}
+notify {"this is my remote file - update from gitremote":}
